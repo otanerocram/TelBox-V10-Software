@@ -1,4 +1,4 @@
-# TelBoxSoftwareVB
+# TelBox 10
 ## Software realizado del Tarifador TelBox
 Software realizado en Visual Basic para el control de locutorios
 

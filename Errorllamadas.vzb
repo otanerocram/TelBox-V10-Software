@@ -1,0 +1,1976 @@
+ERROR DETECTADO EL 03/04/2002 20:59
+Operación  :  1 
+Fecha      : 07/04/02 01:39:00 a.m. 
+Teléfono   :  2 3 4 5 6 7 8 07
+Minutos    : -7 
+Usuario    : Clave secundaria 00
+Servicio   : Local
+Tipo Número: Especial
+Troncal_Id :  2 
+Registros de memoria:
+ 2464         9A0           1
+ 2465         9A1           7
+ 2466         9A2           0
+ 2467         9A3           12
+ 2468         9A4           23
+ 2469         9A5           45
+ 2470         9A6           67
+ 2471         9A7           80
+ 2472         9A8           29
+ 2473         9A9           9
+ 2474         9AA           0
+ 2475         9AB           0
+ 2476         9AC           0
+ 2477         9AD           0
+ 2478         9AE           0
+ 2479         9AF           0
+-----------------------------------------
+ERROR DETECTADO EL 03/04/2002 21:06
+Operación  :  1 
+Fecha      : 07/04/02 01:47:00 a.m. 
+Teléfono   :  4 5 6 7 8 9 10 09
+Minutos    : -7 
+Usuario    : Clave secundaria 32
+Servicio   : Local
+Tipo Número: Especial
+Troncal_Id :  2 
+Registros de memoria:
+ 2464         9A0           1
+ 2465         9A1           7
+ 2466         9A2           0
+ 2467         9A3           12
+ 2468         9A4           45
+ 2469         9A5           67
+ 2470         9A6           89
+ 2471         9A7           A0
+ 2472         9A8           29
+ 2473         9A9           1
+ 2474         9AA           0
+ 2475         9AB           0
+ 2476         9AC           0
+ 2477         9AD           0
+ 2478         9AE           0
+ 2479         9AF           0
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  1 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2464         9A0           FF
+ 2465         9A1           FF
+ 2466         9A2           FF
+ 2467         9A3           FF
+ 2468         9A4           FF
+ 2469         9A5           FF
+ 2470         9A6           FF
+ 2471         9A7           FF
+ 2472         9A8           FF
+ 2473         9A9           FF
+ 2474         9AA           FF
+ 2475         9AB           FF
+ 2476         9AC           FF
+ 2477         9AD           FF
+ 2478         9AE           FF
+ 2479         9AF           FF
+ 2480         9B0           CF
+ 2481         9B1           FF
+ 2482         9B2           FF
+ 2483         9B3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  2 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Celular Nacional
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2480         9B0           CF
+ 2481         9B1           FF
+ 2482         9B2           FF
+ 2483         9B3           FF
+ 2484         9B4           FF
+ 2485         9B5           FF
+ 2486         9B6           FF
+ 2487         9B7           FF
+ 2488         9B8           FF
+ 2489         9B9           FF
+ 2490         9BA           FF
+ 2491         9BB           FF
+ 2492         9BC           FF
+ 2493         9BD           FF
+ 2494         9BE           FF
+ 2495         9BF           FF
+ 2496         9C0           FF
+ 2497         9C1           FF
+ 2498         9C2           FF
+ 2499         9C3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  3 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2496         9C0           FF
+ 2497         9C1           FF
+ 2498         9C2           FF
+ 2499         9C3           FF
+ 2500         9C4           FF
+ 2501         9C5           FF
+ 2502         9C6           FF
+ 2503         9C7           FF
+ 2504         9C8           FF
+ 2505         9C9           FF
+ 2506         9CA           FF
+ 2507         9CB           FF
+ 2508         9CC           FF
+ 2509         9CD           FF
+ 2510         9CE           FF
+ 2511         9CF           FF
+ 2512         9D0           FF
+ 2513         9D1           FF
+ 2514         9D2           FF
+ 2515         9D3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  4 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2512         9D0           FF
+ 2513         9D1           FF
+ 2514         9D2           FF
+ 2515         9D3           FF
+ 2516         9D4           FF
+ 2517         9D5           FF
+ 2518         9D6           FF
+ 2519         9D7           FF
+ 2520         9D8           FF
+ 2521         9D9           FF
+ 2522         9DA           FF
+ 2523         9DB           FF
+ 2524         9DC           FF
+ 2525         9DD           FF
+ 2526         9DE           FF
+ 2527         9DF           FF
+ 2528         9E0           FF
+ 2529         9E1           FF
+ 2530         9E2           FF
+ 2531         9E3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  5 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2528         9E0           FF
+ 2529         9E1           FF
+ 2530         9E2           FF
+ 2531         9E3           FF
+ 2532         9E4           FF
+ 2533         9E5           FF
+ 2534         9E6           FF
+ 2535         9E7           FF
+ 2536         9E8           FF
+ 2537         9E9           FF
+ 2538         9EA           FF
+ 2539         9EB           FF
+ 2540         9EC           FF
+ 2541         9ED           FF
+ 2542         9EE           FF
+ 2543         9EF           FF
+ 2544         9F0           FF
+ 2545         9F1           FF
+ 2546         9F2           FF
+ 2547         9F3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  6 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2544         9F0           FF
+ 2545         9F1           FF
+ 2546         9F2           FF
+ 2547         9F3           FF
+ 2548         9F4           FF
+ 2549         9F5           FF
+ 2550         9F6           FF
+ 2551         9F7           FF
+ 2552         9F8           FF
+ 2553         9F9           FF
+ 2554         9FA           FF
+ 2555         9FB           FF
+ 2556         9FC           FF
+ 2557         9FD           FF
+ 2558         9FE           FF
+ 2559         9FF           FF
+ 2560         A00           FF
+ 2561         A01           FF
+ 2562         A02           FF
+ 2563         A03           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  7 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2560         A00           FF
+ 2561         A01           FF
+ 2562         A02           FF
+ 2563         A03           FF
+ 2564         A04           FF
+ 2565         A05           FF
+ 2566         A06           FF
+ 2567         A07           FF
+ 2568         A08           FF
+ 2569         A09           FF
+ 2570         A0A           FF
+ 2571         A0B           FF
+ 2572         A0C           FF
+ 2573         A0D           FF
+ 2574         A0E           FF
+ 2575         A0F           FF
+ 2576         A10           FF
+ 2577         A11           FF
+ 2578         A12           FF
+ 2579         A13           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  8 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2576         A10           FF
+ 2577         A11           FF
+ 2578         A12           FF
+ 2579         A13           FF
+ 2580         A14           FF
+ 2581         A15           FF
+ 2582         A16           FF
+ 2583         A17           FF
+ 2584         A18           FF
+ 2585         A19           FF
+ 2586         A1A           FF
+ 2587         A1B           FF
+ 2588         A1C           FF
+ 2589         A1D           FF
+ 2590         A1E           FF
+ 2591         A1F           FF
+ 2592         A20           FF
+ 2593         A21           FF
+ 2594         A22           FF
+ 2595         A23           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  9 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2592         A20           FF
+ 2593         A21           FF
+ 2594         A22           FF
+ 2595         A23           FF
+ 2596         A24           FF
+ 2597         A25           FF
+ 2598         A26           FF
+ 2599         A27           FF
+ 2600         A28           FF
+ 2601         A29           FF
+ 2602         A2A           FF
+ 2603         A2B           FF
+ 2604         A2C           FF
+ 2605         A2D           FF
+ 2606         A2E           FF
+ 2607         A2F           FF
+ 2608         A30           FF
+ 2609         A31           FF
+ 2610         A32           FF
+ 2611         A33           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  10 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2608         A30           FF
+ 2609         A31           FF
+ 2610         A32           FF
+ 2611         A33           FF
+ 2612         A34           FF
+ 2613         A35           FF
+ 2614         A36           FF
+ 2615         A37           FF
+ 2616         A38           FF
+ 2617         A39           FF
+ 2618         A3A           FF
+ 2619         A3B           FF
+ 2620         A3C           FF
+ 2621         A3D           FF
+ 2622         A3E           FF
+ 2623         A3F           FF
+ 2624         A40           FF
+ 2625         A41           FF
+ 2626         A42           FF
+ 2627         A43           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  11 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2624         A40           FF
+ 2625         A41           FF
+ 2626         A42           FF
+ 2627         A43           FF
+ 2628         A44           FF
+ 2629         A45           FF
+ 2630         A46           FF
+ 2631         A47           FF
+ 2632         A48           FF
+ 2633         A49           FF
+ 2634         A4A           FF
+ 2635         A4B           FF
+ 2636         A4C           FF
+ 2637         A4D           FF
+ 2638         A4E           FF
+ 2639         A4F           FF
+ 2640         A50           FF
+ 2641         A51           FF
+ 2642         A52           FF
+ 2643         A53           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  12 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2640         A50           FF
+ 2641         A51           FF
+ 2642         A52           FF
+ 2643         A53           FF
+ 2644         A54           FF
+ 2645         A55           FF
+ 2646         A56           FF
+ 2647         A57           FF
+ 2648         A58           FF
+ 2649         A59           FF
+ 2650         A5A           FF
+ 2651         A5B           FF
+ 2652         A5C           FF
+ 2653         A5D           FF
+ 2654         A5E           FF
+ 2655         A5F           FF
+ 2656         A60           FF
+ 2657         A61           FF
+ 2658         A62           FF
+ 2659         A63           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  13 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2656         A60           FF
+ 2657         A61           FF
+ 2658         A62           FF
+ 2659         A63           FF
+ 2660         A64           FF
+ 2661         A65           FF
+ 2662         A66           FF
+ 2663         A67           FF
+ 2664         A68           FF
+ 2665         A69           FF
+ 2666         A6A           FF
+ 2667         A6B           FF
+ 2668         A6C           FF
+ 2669         A6D           FF
+ 2670         A6E           FF
+ 2671         A6F           FF
+ 2672         A70           FF
+ 2673         A71           FF
+ 2674         A72           FF
+ 2675         A73           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  14 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2672         A70           FF
+ 2673         A71           FF
+ 2674         A72           FF
+ 2675         A73           FF
+ 2676         A74           FF
+ 2677         A75           FF
+ 2678         A76           FF
+ 2679         A77           FF
+ 2680         A78           FF
+ 2681         A79           FF
+ 2682         A7A           FF
+ 2683         A7B           FF
+ 2684         A7C           FF
+ 2685         A7D           FF
+ 2686         A7E           FF
+ 2687         A7F           FF
+ 2688         A80           FF
+ 2689         A81           FF
+ 2690         A82           FF
+ 2691         A83           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  15 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2688         A80           FF
+ 2689         A81           FF
+ 2690         A82           FF
+ 2691         A83           FF
+ 2692         A84           FF
+ 2693         A85           FF
+ 2694         A86           FF
+ 2695         A87           FF
+ 2696         A88           FF
+ 2697         A89           FF
+ 2698         A8A           FF
+ 2699         A8B           FF
+ 2700         A8C           FF
+ 2701         A8D           FF
+ 2702         A8E           FF
+ 2703         A8F           FF
+ 2704         A90           FF
+ 2705         A91           CF
+ 2706         A92           FF
+ 2707         A93           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  16 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2704         A90           FF
+ 2705         A91           CF
+ 2706         A92           FF
+ 2707         A93           FF
+ 2708         A94           FF
+ 2709         A95           FF
+ 2710         A96           FF
+ 2711         A97           FF
+ 2712         A98           FF
+ 2713         A99           FF
+ 2714         A9A           FF
+ 2715         A9B           FF
+ 2716         A9C           FF
+ 2717         A9D           FF
+ 2718         A9E           FF
+ 2719         A9F           FF
+ 2720         AA0           FF
+ 2721         AA1           FF
+ 2722         AA2           FF
+ 2723         AA3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  17 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2720         AA0           FF
+ 2721         AA1           FF
+ 2722         AA2           FF
+ 2723         AA3           FF
+ 2724         AA4           FF
+ 2725         AA5           FF
+ 2726         AA6           FF
+ 2727         AA7           FF
+ 2728         AA8           FF
+ 2729         AA9           FF
+ 2730         AAA           FF
+ 2731         AAB           FF
+ 2732         AAC           FF
+ 2733         AAD           FF
+ 2734         AAE           FF
+ 2735         AAF           FF
+ 2736         AB0           FF
+ 2737         AB1           FF
+ 2738         AB2           FF
+ 2739         AB3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  18 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2736         AB0           FF
+ 2737         AB1           FF
+ 2738         AB2           FF
+ 2739         AB3           FF
+ 2740         AB4           FF
+ 2741         AB5           FF
+ 2742         AB6           FF
+ 2743         AB7           FF
+ 2744         AB8           FF
+ 2745         AB9           FF
+ 2746         ABA           FF
+ 2747         ABB           FF
+ 2748         ABC           FF
+ 2749         ABD           FF
+ 2750         ABE           C2
+ 2751         ABF           F3
+ 2752         AC0           F4
+ 2753         AC1           F5
+ 2754         AC2           F6
+ 2755         AC3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  19 
+Fecha      : 23/11/31 20:06:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2752         AC0           F4
+ 2753         AC1           F5
+ 2754         AC2           F6
+ 2755         AC3           FF
+ 2756         AC4           FF
+ 2757         AC5           FF
+ 2758         AC6           FF
+ 2759         AC7           FF
+ 2760         AC8           FF
+ 2761         AC9           FF
+ 2762         ACA           FF
+ 2763         ACB           FF
+ 2764         ACC           FF
+ 2765         ACD           FF
+ 2766         ACE           FF
+ 2767         ACF           FF
+ 2768         AD0           FF
+ 2769         AD1           FF
+ 2770         AD2           FF
+ 2771         AD3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  20 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2768         AD0           FF
+ 2769         AD1           FF
+ 2770         AD2           FF
+ 2771         AD3           FF
+ 2772         AD4           FF
+ 2773         AD5           FF
+ 2774         AD6           FF
+ 2775         AD7           FF
+ 2776         AD8           FF
+ 2777         AD9           FF
+ 2778         ADA           FF
+ 2779         ADB           FF
+ 2780         ADC           FF
+ 2781         ADD           FF
+ 2782         ADE           FF
+ 2783         ADF           FF
+ 2784         AE0           FF
+ 2785         AE1           FF
+ 2786         AE2           FF
+ 2787         AE3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  21 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2784         AE0           FF
+ 2785         AE1           FF
+ 2786         AE2           FF
+ 2787         AE3           FF
+ 2788         AE4           FF
+ 2789         AE5           FF
+ 2790         AE6           FF
+ 2791         AE7           FF
+ 2792         AE8           FF
+ 2793         AE9           FF
+ 2794         AEA           FF
+ 2795         AEB           FF
+ 2796         AEC           FF
+ 2797         AED           FF
+ 2798         AEE           FF
+ 2799         AEF           FF
+ 2800         AF0           FF
+ 2801         AF1           FF
+ 2802         AF2           FF
+ 2803         AF3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  22 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2800         AF0           FF
+ 2801         AF1           FF
+ 2802         AF2           FF
+ 2803         AF3           FF
+ 2804         AF4           FF
+ 2805         AF5           FF
+ 2806         AF6           FF
+ 2807         AF7           FF
+ 2808         AF8           FF
+ 2809         AF9           FF
+ 2810         AFA           FF
+ 2811         AFB           FF
+ 2812         AFC           FF
+ 2813         AFD           FF
+ 2814         AFE           FF
+ 2815         AFF           FF
+ 2816         B00           FF
+ 2817         B01           FF
+ 2818         B02           FF
+ 2819         B03           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  23 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2816         B00           FF
+ 2817         B01           FF
+ 2818         B02           FF
+ 2819         B03           FF
+ 2820         B04           FF
+ 2821         B05           FF
+ 2822         B06           FF
+ 2823         B07           FF
+ 2824         B08           FF
+ 2825         B09           FF
+ 2826         B0A           FF
+ 2827         B0B           FF
+ 2828         B0C           FF
+ 2829         B0D           FF
+ 2830         B0E           FF
+ 2831         B0F           FF
+ 2832         B10           FF
+ 2833         B11           FF
+ 2834         B12           FF
+ 2835         B13           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  24 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2832         B10           FF
+ 2833         B11           FF
+ 2834         B12           FF
+ 2835         B13           FF
+ 2836         B14           FF
+ 2837         B15           FF
+ 2838         B16           FF
+ 2839         B17           FF
+ 2840         B18           FF
+ 2841         B19           FF
+ 2842         B1A           FF
+ 2843         B1B           FF
+ 2844         B1C           FF
+ 2845         B1D           FF
+ 2846         B1E           FF
+ 2847         B1F           FF
+ 2848         B20           FF
+ 2849         B21           FF
+ 2850         B22           FF
+ 2851         B23           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  25 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2848         B20           FF
+ 2849         B21           FF
+ 2850         B22           FF
+ 2851         B23           FF
+ 2852         B24           FF
+ 2853         B25           FF
+ 2854         B26           FF
+ 2855         B27           FF
+ 2856         B28           FF
+ 2857         B29           FF
+ 2858         B2A           FF
+ 2859         B2B           FF
+ 2860         B2C           FF
+ 2861         B2D           FF
+ 2862         B2E           FF
+ 2863         B2F           FF
+ 2864         B30           FF
+ 2865         B31           FF
+ 2866         B32           FF
+ 2867         B33           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  27 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2880         B40           FF
+ 2881         B41           FF
+ 2882         B42           FF
+ 2883         B43           FF
+ 2884         B44           FF
+ 2885         B45           FF
+ 2886         B46           FF
+ 2887         B47           FF
+ 2888         B48           FF
+ 2889         B49           FF
+ 2890         B4A           FF
+ 2891         B4B           FF
+ 2892         B4C           FF
+ 2893         B4D           FF
+ 2894         B4E           FF
+ 2895         B4F           FF
+ 2896         B50           FF
+ 2897         B51           FF
+ 2898         B52           FF
+ 2899         B53           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  28 
+Fecha      : 23/02/31 18:39:00 
+Teléfono   : 1561531521511515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2896         B50           FF
+ 2897         B51           FF
+ 2898         B52           FF
+ 2899         B53           FF
+ 2900         B54           F9
+ 2901         B55           F6
+ 2902         B56           F3
+ 2903         B57           F2
+ 2904         B58           F1
+ 2905         B59           FF
+ 2906         B5A           FF
+ 2907         B5B           FF
+ 2908         B5C           FF
+ 2909         B5D           FF
+ 2910         B5E           FF
+ 2911         B5F           FF
+ 2912         B60           FF
+ 2913         B61           FF
+ 2914         B62           FF
+ 2915         B63           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  29 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2912         B60           FF
+ 2913         B61           FF
+ 2914         B62           FF
+ 2915         B63           FF
+ 2916         B64           FF
+ 2917         B65           FF
+ 2918         B66           FF
+ 2919         B67           FF
+ 2920         B68           FF
+ 2921         B69           FF
+ 2922         B6A           FF
+ 2923         B6B           FF
+ 2924         B6C           FF
+ 2925         B6D           FF
+ 2926         B6E           FF
+ 2927         B6F           FF
+ 2928         B70           FF
+ 2929         B71           FF
+ 2930         B72           CF
+ 2931         B73           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  30 
+Fecha      : 23/11/31 19:27:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2928         B70           FF
+ 2929         B71           FF
+ 2930         B72           CF
+ 2931         B73           FF
+ 2932         B74           FF
+ 2933         B75           FF
+ 2934         B76           FF
+ 2935         B77           FF
+ 2936         B78           FF
+ 2937         B79           FF
+ 2938         B7A           FF
+ 2939         B7B           FF
+ 2940         B7C           FF
+ 2941         B7D           FF
+ 2942         B7E           FF
+ 2943         B7F           FF
+ 2944         B80           FF
+ 2945         B81           FF
+ 2946         B82           FF
+ 2947         B83           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  31 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2944         B80           FF
+ 2945         B81           FF
+ 2946         B82           FF
+ 2947         B83           FF
+ 2948         B84           FF
+ 2949         B85           FF
+ 2950         B86           FF
+ 2951         B87           FF
+ 2952         B88           FF
+ 2953         B89           FF
+ 2954         B8A           FF
+ 2955         B8B           FF
+ 2956         B8C           FF
+ 2957         B8D           FF
+ 2958         B8E           FF
+ 2959         B8F           FF
+ 2960         B90           FF
+ 2961         B91           FF
+ 2962         B92           FF
+ 2963         B93           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  32 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2960         B90           FF
+ 2961         B91           FF
+ 2962         B92           FF
+ 2963         B93           FF
+ 2964         B94           FF
+ 2965         B95           FF
+ 2966         B96           FF
+ 2967         B97           FF
+ 2968         B98           FF
+ 2969         B99           FF
+ 2970         B9A           FF
+ 2971         B9B           FF
+ 2972         B9C           FF
+ 2973         B9D           FF
+ 2974         B9E           FF
+ 2975         B9F           FF
+ 2976         BA0           FF
+ 2977         BA1           FF
+ 2978         BA2           FF
+ 2979         BA3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  33 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2976         BA0           FF
+ 2977         BA1           FF
+ 2978         BA2           FF
+ 2979         BA3           FF
+ 2980         BA4           FF
+ 2981         BA5           FF
+ 2982         BA6           FF
+ 2983         BA7           FF
+ 2984         BA8           FF
+ 2985         BA9           FF
+ 2986         BAA           FF
+ 2987         BAB           FF
+ 2988         BAC           FF
+ 2989         BAD           FF
+ 2990         BAE           FF
+ 2991         BAF           FF
+ 2992         BB0           FF
+ 2993         BB1           FF
+ 2994         BB2           FF
+ 2995         BB3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  34 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 2992         BB0           FF
+ 2993         BB1           FF
+ 2994         BB2           FF
+ 2995         BB3           FF
+ 2996         BB4           FF
+ 2997         BB5           FF
+ 2998         BB6           FF
+ 2999         BB7           FF
+ 3000         BB8           FF
+ 3001         BB9           FF
+ 3002         BBA           FF
+ 3003         BBB           FF
+ 3004         BBC           FF
+ 3005         BBD           FF
+ 3006         BBE           FF
+ 3007         BBF           FF
+ 3008         BC0           FF
+ 3009         BC1           FF
+ 3010         BC2           FF
+ 3011         BC3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  35 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3008         BC0           FF
+ 3009         BC1           FF
+ 3010         BC2           FF
+ 3011         BC3           FF
+ 3012         BC4           FF
+ 3013         BC5           FF
+ 3014         BC6           FF
+ 3015         BC7           FF
+ 3016         BC8           FF
+ 3017         BC9           FF
+ 3018         BCA           FF
+ 3019         BCB           FF
+ 3020         BCC           FF
+ 3021         BCD           FF
+ 3022         BCE           FF
+ 3023         BCF           FF
+ 3024         BD0           FF
+ 3025         BD1           FF
+ 3026         BD2           FF
+ 3027         BD3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  36 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3024         BD0           FF
+ 3025         BD1           FF
+ 3026         BD2           FF
+ 3027         BD3           FF
+ 3028         BD4           FF
+ 3029         BD5           FF
+ 3030         BD6           FF
+ 3031         BD7           FF
+ 3032         BD8           FF
+ 3033         BD9           FF
+ 3034         BDA           FF
+ 3035         BDB           FF
+ 3036         BDC           FF
+ 3037         BDD           FF
+ 3038         BDE           FF
+ 3039         BDF           FF
+ 3040         BE0           FF
+ 3041         BE1           FF
+ 3042         BE2           FF
+ 3043         BE3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  37 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3040         BE0           FF
+ 3041         BE1           FF
+ 3042         BE2           FF
+ 3043         BE3           FF
+ 3044         BE4           FF
+ 3045         BE5           FF
+ 3046         BE6           FF
+ 3047         BE7           FF
+ 3048         BE8           FF
+ 3049         BE9           FF
+ 3050         BEA           FF
+ 3051         BEB           FF
+ 3052         BEC           FF
+ 3053         BED           FF
+ 3054         BEE           FF
+ 3055         BEF           FF
+ 3056         BF0           FF
+ 3057         BF1           FF
+ 3058         BF2           FF
+ 3059         BF3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  38 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3056         BF0           FF
+ 3057         BF1           FF
+ 3058         BF2           FF
+ 3059         BF3           FF
+ 3060         BF4           FF
+ 3061         BF5           FF
+ 3062         BF6           FF
+ 3063         BF7           FF
+ 3064         BF8           FF
+ 3065         BF9           FF
+ 3066         BFA           FF
+ 3067         BFB           FF
+ 3068         BFC           FF
+ 3069         BFD           FF
+ 3070         BFE           FF
+ 3071         BFF           FF
+ 3072         C00           FF
+ 3073         C01           FF
+ 3074         C02           FF
+ 3075         C03           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  39 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3072         C00           FF
+ 3073         C01           FF
+ 3074         C02           FF
+ 3075         C03           FF
+ 3076         C04           FF
+ 3077         C05           FF
+ 3078         C06           FF
+ 3079         C07           FF
+ 3080         C08           FF
+ 3081         C09           FF
+ 3082         C0A           FF
+ 3083         C0B           FF
+ 3084         C0C           FF
+ 3085         C0D           FF
+ 3086         C0E           FF
+ 3087         C0F           FF
+ 3088         C10           FF
+ 3089         C11           FF
+ 3090         C12           FF
+ 3091         C13           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  40 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3088         C10           FF
+ 3089         C11           FF
+ 3090         C12           FF
+ 3091         C13           FF
+ 3092         C14           FF
+ 3093         C15           FF
+ 3094         C16           FF
+ 3095         C17           FF
+ 3096         C18           FF
+ 3097         C19           FF
+ 3098         C1A           FF
+ 3099         C1B           FF
+ 3100         C1C           FF
+ 3101         C1D           FF
+ 3102         C1E           FF
+ 3103         C1F           FF
+ 3104         C20           FF
+ 3105         C21           FF
+ 3106         C22           FF
+ 3107         C23           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  41 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3104         C20           FF
+ 3105         C21           FF
+ 3106         C22           FF
+ 3107         C23           FF
+ 3108         C24           FF
+ 3109         C25           FF
+ 3110         C26           FF
+ 3111         C27           FF
+ 3112         C28           FF
+ 3113         C29           FF
+ 3114         C2A           FF
+ 3115         C2B           FF
+ 3116         C2C           FF
+ 3117         C2D           FF
+ 3118         C2E           FF
+ 3119         C2F           FF
+ 3120         C30           FF
+ 3121         C31           FF
+ 3122         C32           FF
+ 3123         C33           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  42 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 156155154157158151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3120         C30           FF
+ 3121         C31           FF
+ 3122         C32           FF
+ 3123         C33           FF
+ 3124         C34           FF
+ 3125         C35           F6
+ 3126         C36           F5
+ 3127         C37           F4
+ 3128         C38           F7
+ 3129         C39           F8
+ 3130         C3A           FF
+ 3131         C3B           FF
+ 3132         C3C           FF
+ 3133         C3D           FF
+ 3134         C3E           FF
+ 3135         C3F           FF
+ 3136         C40           FF
+ 3137         C41           FF
+ 3138         C42           FF
+ 3139         C43           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  43 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3136         C40           FF
+ 3137         C41           FF
+ 3138         C42           FF
+ 3139         C43           FF
+ 3140         C44           FF
+ 3141         C45           FF
+ 3142         C46           FF
+ 3143         C47           FF
+ 3144         C48           FF
+ 3145         C49           FF
+ 3146         C4A           FF
+ 3147         C4B           FF
+ 3148         C4C           FF
+ 3149         C4D           FF
+ 3150         C4E           FF
+ 3151         C4F           FF
+ 3152         C50           FF
+ 3153         C51           FF
+ 3154         C52           FF
+ 3155         C53           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  44 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3152         C50           FF
+ 3153         C51           FF
+ 3154         C52           FF
+ 3155         C53           FF
+ 3156         C54           FF
+ 3157         C55           FF
+ 3158         C56           FF
+ 3159         C57           FF
+ 3160         C58           FF
+ 3161         C59           FF
+ 3162         C5A           FF
+ 3163         C5B           FF
+ 3164         C5C           FF
+ 3165         C5D           FF
+ 3166         C5E           FF
+ 3167         C5F           FF
+ 3168         C60           FF
+ 3169         C61           FF
+ 3170         C62           FF
+ 3171         C63           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  45 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3168         C60           FF
+ 3169         C61           FF
+ 3170         C62           FF
+ 3171         C63           FF
+ 3172         C64           FF
+ 3173         C65           FF
+ 3174         C66           FF
+ 3175         C67           FF
+ 3176         C68           FF
+ 3177         C69           FF
+ 3178         C6A           FF
+ 3179         C6B           FF
+ 3180         C6C           FF
+ 3181         C6D           FF
+ 3182         C6E           FF
+ 3183         C6F           FF
+ 3184         C70           FF
+ 3185         C71           FF
+ 3186         C72           FF
+ 3187         C73           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  46 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3184         C70           FF
+ 3185         C71           FF
+ 3186         C72           FF
+ 3187         C73           FF
+ 3188         C74           FF
+ 3189         C75           FF
+ 3190         C76           FF
+ 3191         C77           FF
+ 3192         C78           FF
+ 3193         C79           FF
+ 3194         C7A           FF
+ 3195         C7B           FF
+ 3196         C7C           FF
+ 3197         C7D           FF
+ 3198         C7E           FF
+ 3199         C7F           FF
+ 3200         C80           FF
+ 3201         C81           FF
+ 3202         C82           FF
+ 3203         C83           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  47 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3200         C80           FF
+ 3201         C81           FF
+ 3202         C82           FF
+ 3203         C83           FF
+ 3204         C84           FF
+ 3205         C85           FF
+ 3206         C86           FF
+ 3207         C87           FF
+ 3208         C88           FF
+ 3209         C89           FF
+ 3210         C8A           FF
+ 3211         C8B           FF
+ 3212         C8C           FF
+ 3213         C8D           FF
+ 3214         C8E           FF
+ 3215         C8F           FF
+ 3216         C90           FF
+ 3217         C91           FF
+ 3218         C92           FF
+ 3219         C93           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  48 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3216         C90           FF
+ 3217         C91           FF
+ 3218         C92           FF
+ 3219         C93           FF
+ 3220         C94           FF
+ 3221         C95           FF
+ 3222         C96           FF
+ 3223         C97           FF
+ 3224         C98           FF
+ 3225         C99           FF
+ 3226         C9A           FF
+ 3227         C9B           FF
+ 3228         C9C           FF
+ 3229         C9D           FF
+ 3230         C9E           FF
+ 3231         C9F           FF
+ 3232         CA0           FF
+ 3233         CA1           FF
+ 3234         CA2           FF
+ 3235         CA3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  49 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3232         CA0           FF
+ 3233         CA1           FF
+ 3234         CA2           FF
+ 3235         CA3           FF
+ 3236         CA4           FF
+ 3237         CA5           FF
+ 3238         CA6           FF
+ 3239         CA7           FF
+ 3240         CA8           FF
+ 3241         CA9           FF
+ 3242         CAA           FF
+ 3243         CAB           FF
+ 3244         CAC           FF
+ 3245         CAD           FF
+ 3246         CAE           FF
+ 3247         CAF           FF
+ 3248         CB0           FF
+ 3249         CB1           FF
+ 3250         CB2           FF
+ 3251         CB3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  50 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3248         CB0           FF
+ 3249         CB1           FF
+ 3250         CB2           FF
+ 3251         CB3           FF
+ 3252         CB4           FF
+ 3253         CB5           FF
+ 3254         CB6           FF
+ 3255         CB7           FF
+ 3256         CB8           FF
+ 3257         CB9           FF
+ 3258         CBA           FF
+ 3259         CBB           FF
+ 3260         CBC           FF
+ 3261         CBD           FF
+ 3262         CBE           FF
+ 3263         CBF           FF
+ 3264         CC0           FF
+ 3265         CC1           FF
+ 3266         CC2           FF
+ 3267         CC3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  51 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3264         CC0           FF
+ 3265         CC1           FF
+ 3266         CC2           FF
+ 3267         CC3           FF
+ 3268         CC4           FF
+ 3269         CC5           FF
+ 3270         CC6           FF
+ 3271         CC7           FF
+ 3272         CC8           FF
+ 3273         CC9           FF
+ 3274         CCA           FF
+ 3275         CCB           FF
+ 3276         CCC           FF
+ 3277         CCD           FF
+ 3278         CCE           FF
+ 3279         CCF           FF
+ 3280         CD0           FF
+ 3281         CD1           FF
+ 3282         CD2           FF
+ 3283         CD3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  52 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3280         CD0           FF
+ 3281         CD1           FF
+ 3282         CD2           FF
+ 3283         CD3           FF
+ 3284         CD4           FF
+ 3285         CD5           FF
+ 3286         CD6           FF
+ 3287         CD7           FF
+ 3288         CD8           FF
+ 3289         CD9           FF
+ 3290         CDA           FF
+ 3291         CDB           FF
+ 3292         CDC           FF
+ 3293         CDD           FF
+ 3294         CDE           FF
+ 3295         CDF           FF
+ 3296         CE0           FF
+ 3297         CE1           FF
+ 3298         CE2           FF
+ 3299         CE3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  53 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3296         CE0           FF
+ 3297         CE1           FF
+ 3298         CE2           FF
+ 3299         CE3           FF
+ 3300         CE4           FF
+ 3301         CE5           FF
+ 3302         CE6           FF
+ 3303         CE7           FF
+ 3304         CE8           FF
+ 3305         CE9           FF
+ 3306         CEA           FF
+ 3307         CEB           FF
+ 3308         CEC           FF
+ 3309         CED           FF
+ 3310         CEE           FF
+ 3311         CEF           FF
+ 3312         CF0           FF
+ 3313         CF1           FF
+ 3314         CF2           FF
+ 3315         CF3           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  54 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3312         CF0           FF
+ 3313         CF1           FF
+ 3314         CF2           FF
+ 3315         CF3           FF
+ 3316         CF4           FF
+ 3317         CF5           FF
+ 3318         CF6           FF
+ 3319         CF7           FF
+ 3320         CF8           FF
+ 3321         CF9           FF
+ 3322         CFA           FF
+ 3323         CFB           FF
+ 3324         CFC           FF
+ 3325         CFD           FF
+ 3326         CFE           FF
+ 3327         CFF           FF
+ 3328         D00           FF
+ 3329         D01           FF
+ 3330         D02           FF
+ 3331         D03           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  55 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3328         D00           FF
+ 3329         D01           FF
+ 3330         D02           FF
+ 3331         D03           FF
+ 3332         D04           FF
+ 3333         D05           FF
+ 3334         D06           FF
+ 3335         D07           FF
+ 3336         D08           FF
+ 3337         D09           FF
+ 3338         D0A           FF
+ 3339         D0B           FF
+ 3340         D0C           FF
+ 3341         D0D           FF
+ 3342         D0E           FF
+ 3343         D0F           FF
+ 3344         D10           FF
+ 3345         D11           FF
+ 3346         D12           FF
+ 3347         D13           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  56 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3344         D10           FF
+ 3345         D11           FF
+ 3346         D12           FF
+ 3347         D13           FF
+ 3348         D14           FF
+ 3349         D15           FF
+ 3350         D16           FF
+ 3351         D17           FF
+ 3352         D18           FF
+ 3353         D19           FF
+ 3354         D1A           FF
+ 3355         D1B           FF
+ 3356         D1C           FF
+ 3357         D1D           FF
+ 3358         D1E           FF
+ 3359         D1F           FF
+ 3360         D20           FF
+ 3361         D21           FF
+ 3362         D22           FF
+ 3363         D23           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  57 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3360         D20           FF
+ 3361         D21           FF
+ 3362         D22           FF
+ 3363         D23           FF
+ 3364         D24           FF
+ 3365         D25           FF
+ 3366         D26           FF
+ 3367         D27           FF
+ 3368         D28           FF
+ 3369         D29           FF
+ 3370         D2A           FF
+ 3371         D2B           FF
+ 3372         D2C           FF
+ 3373         D2D           FF
+ 3374         D2E           FF
+ 3375         D2F           FF
+ 3376         D30           FF
+ 3377         D31           FF
+ 3378         D32           FF
+ 3379         D33           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  58 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3376         D30           FF
+ 3377         D31           FF
+ 3378         D32           FF
+ 3379         D33           FF
+ 3380         D34           FF
+ 3381         D35           FF
+ 3382         D36           FF
+ 3383         D37           FF
+ 3384         D38           FF
+ 3385         D39           FF
+ 3386         D3A           FF
+ 3387         D3B           FF
+ 3388         D3C           FF
+ 3389         D3D           FF
+ 3390         D3E           FF
+ 3391         D3F           FF
+ 3392         D40           FF
+ 3393         D41           FF
+ 3394         D42           FF
+ 3395         D43           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  59 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3392         D40           FF
+ 3393         D41           FF
+ 3394         D42           FF
+ 3395         D43           FF
+ 3396         D44           FF
+ 3397         D45           FF
+ 3398         D46           FF
+ 3399         D47           FF
+ 3400         D48           FF
+ 3401         D49           FF
+ 3402         D4A           FF
+ 3403         D4B           FF
+ 3404         D4C           FF
+ 3405         D4D           FF
+ 3406         D4E           FF
+ 3407         D4F           FF
+ 3408         D50           FF
+ 3409         D51           FF
+ 3410         D52           FF
+ 3411         D53           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  60 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3408         D50           FF
+ 3409         D51           FF
+ 3410         D52           FF
+ 3411         D53           FF
+ 3412         D54           FF
+ 3413         D55           FF
+ 3414         D56           FF
+ 3415         D57           FF
+ 3416         D58           FF
+ 3417         D59           FF
+ 3418         D5A           FF
+ 3419         D5B           FF
+ 3420         D5C           FF
+ 3421         D5D           FF
+ 3422         D5E           FF
+ 3423         D5F           FF
+ 3424         D60           FF
+ 3425         D61           FF
+ 3426         D62           FF
+ 3427         D63           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  61 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3424         D60           FF
+ 3425         D61           FF
+ 3426         D62           FF
+ 3427         D63           FF
+ 3428         D64           FF
+ 3429         D65           FF
+ 3430         D66           FF
+ 3431         D67           FF
+ 3432         D68           FF
+ 3433         D69           FF
+ 3434         D6A           FF
+ 3435         D6B           FF
+ 3436         D6C           FF
+ 3437         D6D           FF
+ 3438         D6E           FF
+ 3439         D6F           FF
+ 3440         D70           FF
+ 3441         D71           FF
+ 3442         D72           FF
+ 3443         D73           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  62 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3440         D70           FF
+ 3441         D71           FF
+ 3442         D72           FF
+ 3443         D73           FF
+ 3444         D74           FF
+ 3445         D75           FF
+ 3446         D76           FF
+ 3447         D77           FF
+ 3448         D78           FF
+ 3449         D79           FF
+ 3450         D7A           FF
+ 3451         D7B           FF
+ 3452         D7C           FF
+ 3453         D7D           FF
+ 3454         D7E           FF
+ 3455         D7F           FF
+ 3456         D80           FF
+ 3457         D81           FF
+ 3458         D82           FF
+ 3459         D83           FF
+-----------------------------------------
+ERROR DETECTADO EL 23/03/2003 18:00
+Operación  :  63 
+Fecha      : 23/11/31 20:15:00 
+Teléfono   : 15151515151515151515151515151515
+Minutos    :  0 
+Usuario    : Clave secundaria 255
+Servicio   : Local
+Tipo Número: No registrado
+Troncal_Id :  1 
+Registros de memoria:
+ 3456         D80           FF
+ 3457         D81           FF
+ 3458         D82           FF
+ 3459         D83           FF
+ 3460         D84           FF
+ 3461         D85           FF
+ 3462         D86           FF
+ 3463         D87           FF
+ 3464         D88           FF
+ 3465         D89           FF
+ 3466         D8A           FF
+ 3467         D8B           FF
+ 3468         D8C           FF
+ 3469         D8D           FF
+ 3470         D8E           FF
+ 3471         D8F           FF
+ 3472         D90           FF
+ 3473         D91           FF
+ 3474         D92           FF
+ 3475         D93           FF
+-----------------------------------------
